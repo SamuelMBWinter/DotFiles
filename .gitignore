@@ -11,6 +11,7 @@ Electron
 gtk-3.0
 htop
 matplotlib
+Microsoft
 mimeapps.list
 mpd
 neofetch
@@ -21,9 +22,9 @@ pulse
 QtProject.conf
 qutebrowser
 rofi
-starship.toml
 syncthing
 systemd
+teams
 Thunar
 vifm
 vimb
