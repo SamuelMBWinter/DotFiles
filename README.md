@@ -28,3 +28,8 @@ I'm switching back to arch, here are the things I need to sort out/work out befo
 - [ ] lots of system fonts (Russian and English)
 - [ ] picom and config files - compositor for nice animations
 - [ ] rofi and config files
+- [ ] newsboat
+- [ ] links
+- [ ] cli emails
+- [ ] starship prompt
+- [ ] vi mode in terminal wiht indication set on
